@@ -1,4 +1,5 @@
 Usage
+
 python3 run_csp.py <path-to-csp-file>
 
 Examples
